@@ -1,5 +1,6 @@
 venv/
-pr_agent/settings/.secrets.toml
+# comment this code for fix config from .secrets.toml
+#pr_agent/settings/.secrets.toml
 pics/
 pr_agent.egg-info/
 build/

@@ -1,6 +1,7 @@
 .idea/
 venv/
-pr_agent/settings/.secrets.toml
+# comment for this code save state
+#pr_agent/settings/.secrets.toml
 __pycache__
 dist/
 *.egg-info/
